@@ -1,0 +1,10 @@
+package jpp.gametheory.rockPaperScissors;
+
+import jpp.gametheory.generic.IChoice;
+
+public enum RPSChoice implements IChoice {
+    ROCK, PAPER, SCISSORS
+
+  //name otomatik var, yeniden yazma
+
+}
